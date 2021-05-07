@@ -4,6 +4,8 @@
 
 <p align="center">
 <img width="30%" src="https://i.imgur.com/vo8yOLv.png" alt="CRUD - Lista de Tarefas"/>
+<img width="30%" src="https://i.imgur.com/NUjeV8Q.png" alt="CRUD - Adicionar Tarefas"/>
+<img width="30%" src="https://i.imgur.com/cctVMQ1.png" alt="CRUD - Editar Tarefas"/>
 </p>
 
 <h1 align="center">Lista de Tarefas</h1>
