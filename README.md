@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="70%" src="https://i.imgur.com/SroyvTi.png" alt="CRUD - Lista de Tarefas"/>
+<img width="70%" src="https://i.imgur.com/vo8yOLv.png" alt="CRUD - Lista de Tarefas"/>
 </p>
 
 <h1 align="center">Lista de Tarefas</h1>
