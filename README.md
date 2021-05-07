@@ -9,13 +9,13 @@
 <h1 align="center">Lista de Tarefas</h1>
 <p align="center">Projeto <strong>Lista de Tarefas</strong> desenvolvido para demonstrar um CRUD</p>
 <p align="center">
-  <a aria-label="Mayk" href="https://github.com/maykbrito/">
+  <a aria-label="Rodrigo Gentini" href="https://github.com/gentini/">
     <img src="https://img.shields.io/badge/gentini@gmail.com-79-informational?logo=JustGiving"></img>
   </a>
-  <a aria-label="Node" href="https://github.com/flutter/flutter">
+  <a aria-label="Flutter" href="https://github.com/flutter/flutter">
     <img src="https://img.shields.io/badge/Flutter-informational?logo=Flutter"></img>
   </a>
-  <a aria-label="Next" href="http://firebase.google.com">
+  <a aria-label="Firebase" href="http://firebase.google.com">
     <img src="https://img.shields.io/badge/Firebase-informational?logo=Firebase"></img>
   </a>
 </p>
