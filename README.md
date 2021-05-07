@@ -17,6 +17,9 @@
   <a aria-label="Flutter" href="https://github.com/flutter/flutter">
     <img src="https://img.shields.io/badge/Flutter-informational?logo=Flutter"></img>
   </a>
+  <a aria-label="Dart" href="https://github.com/dart-lang">
+    <img src="https://img.shields.io/badge/Dart-informational?logo=Dart"></img>
+  </a>
   <a aria-label="Firebase" href="http://firebase.google.com">
     <img src="https://img.shields.io/badge/Firebase-informational?logo=Firebase"></img>
   </a>
